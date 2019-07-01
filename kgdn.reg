@@ -1,6 +1,6 @@
 Windows Registry Editor Version 5.00
 
-[HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Control\Keyboard Layouts\074400419]
+[HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Control\Keyboard Layouts\07440419]
 "Layout Text"="US+RU-(KGDN)"
 "Layout Display Name"="US+RU-(KGDN)"
 "Layout File"="kgdn.dll"
