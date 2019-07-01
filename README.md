@@ -14,4 +14,4 @@
 
 Настройте сочетание клавиш для 'Смена раскладки клавиатуры' и 'Смена языка ввода'.
 
-<kbd>AltGr</kbd>+<kbd>o</kbd>, <kbd>⇧ Shift</kbd>+<kbd>:</kbd>
+<kbd>AltGr</kbd>+<kbd>o</kbd>, <kbd>⇧ Shift</kbd>+<kbd>;</kbd>
